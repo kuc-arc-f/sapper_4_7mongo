@@ -30,7 +30,10 @@ sapper + svelte , mongodb CRUD sample
 yarn dev
 
 ***
-### Related:
+### Blog:
+* sapper mongodb CRUDの作成
+
+https://zenn.dev/knaka0209/books/7571c1bf92a762/viewer/46b536
 
 ***
 
